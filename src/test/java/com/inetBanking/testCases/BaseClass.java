@@ -49,6 +49,7 @@ public class BaseClass {
 		case "chrome":			
 			ChromeOptions options = new ChromeOptions();
 	        options.setBinary("C:\\Program Files (x86)\\Google\\Chrome Dev\\Application\\chrome.exe");
+	        options.addArguments("--always-authorize-plugins=true");
 	        System.setProperty("webdriver.chrome.driver", readConfig.getPropertyValue("chromePath"));
 	        driver = new ChromeDriver(options);
 	        break;
@@ -74,6 +75,7 @@ public class BaseClass {
 		driver.manage().window().maximize();
 		driver.manage().timeouts().implicitlyWait(25, TimeUnit.SECONDS);
 		driver.manage().timeouts().pageLoadTimeout(10, TimeUnit.SECONDS);
+		driver.manage().deleteAllCookies();
 		log.info("BaseClass: setup() completed for " +  browser + " browser");
 		
 		driver.get(baseURL);

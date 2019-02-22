@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration>
+	<!-- Properties define the path when log files will be saved -->
+	<Properties>
+		<Property name="basePath">./Logs</Property>
+	</Properties>
+	<Appenders>
+
+		<!-- File Appender -->
+		<RollingFile name="File" fileName="${basePath}/app.log"
+			filePattern="${basePath}/app-%d{yyyy-MM-dd-HH}-%i.log"> <!-- add 'gz' for archive, and remove mm for minutes -->
+			<PatternLayout
+				pattern="%d{HH:mm:ss.SSS} [%t] %-5level %c{2} - %msg%n" />
+			<Policies>
+				<!-- <CronTriggeringPolicy schedule="0 0 0 * * ?"/> the console log disappears when cron is engaged-->
+				<TimeBasedTriggeringPolicy interval="1"
+					modulate="true" />
+				<SizeBasedTriggeringPolicy size="100 KB" />
+			</Policies>
+		</RollingFile>
+
+		<!-- Console Appender -->
+		<Console name="Console">
+			<PatternLayout
+				pattern="%d{HH:mm:ss.SSS} [%t] %-5level %c{2} - %msg%n" />
+		</Console>
+
+	</Appenders>
+	<Loggers>
+		<Root level="trace">
+			<AppenderRef ref="Console" />
+			<AppenderRef ref="File" />
+		</Root>
+
+		<!--  Logger name="com.inetBanking.testCases" level="trace"
+			additivity="true">
+			<AppenderRef ref="Console" />
+		</Logger>
+
+		<Logger name="com.inetBanking.testCases" level="trace"
+			additivity="false">
+			<AppenderRef ref="File" />
+		</Logger> -->
+		
+
+	</Loggers>
+</Configuration>

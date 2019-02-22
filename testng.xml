@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="inetBankingSuite">
+
+	<listeners>
+		<listener class-name="com.inetBanking.utilities.ExtentReportListenner"/>	
+	</listeners>
+
+	<test thread-count="5" name="Internet Banking App Test on Chrome">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<!-- We don't need to specify the BaseClass - only TCs with @Test methods  -->
+			<!-- BaseClass @Before/AfterClass methods will be run as they are inside the pkg  -->
+			<!-- class name="com.inetBanking.testCases.BaseClass"/> -->
+			
+			<class name="com.inetBanking.testCases.TC_001_LoginTest"/>
+			<!--   <class name="com.inetBanking.testCases.TC_002_LoginDDT"/> -->
+			<class name="com.inetBanking.testCases.TC_003_AddCustomerTest"/>
+			
+		</classes>
+	</test> <!-- Test -->
+
+	<!-- We can run another Test for Firefox by copying the test parameters  -->
+	<!-- test thread-count="5" name="Internet Banking App Test on Firefox" -->
+	<!--  parameter name="browser" value="firefox" / -->
+
+</suite> <!-- Suite -->

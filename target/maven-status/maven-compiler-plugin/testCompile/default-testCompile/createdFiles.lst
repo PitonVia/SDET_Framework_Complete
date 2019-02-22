@@ -1,0 +1,10 @@
+com\inetBanking\testCases\TC_002_LoginDDT.class
+com\inetBanking\utilities\ReadConfig.class
+com\inetBanking\utilities\ExtentReportListenner.class
+com\inetBanking\testCases\TC_001_LoginTest.class
+com\inetBanking\testCases\TC_003_AddCustomerTest.class
+com\inetBanking\utilities\XLUtils.class
+com\inetBanking\pageObjectFactory\AddCustomerPage.class
+com\inetBanking\testCases\BaseClass.class
+com\inetBanking\utilities\SeleniumMethods.class
+com\inetBanking\pageObjectFactory\LoginPage.class

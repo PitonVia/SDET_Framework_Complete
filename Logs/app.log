@@ -1,94 +1,160 @@
-18:23:46.548 [main] INFO  testCases.TC_001_LoginTest - BaseClass: setup() completed for chrome browser
-18:24:07.036 [main] INFO  testCases.TC_003_AddCustomerTest - BaseClass: setup() completed for chrome browser
-18:25:04.798 [main] INFO  testCases.TC_001_LoginTest - BaseClass: setup() completed for chrome browser
-18:25:11.596 [main] INFO  testCases.TC_001_LoginTest - driver navigates to the base URL 
-18:25:15.436 [main] INFO  testCases.TC_001_LoginTest - driver enters username
-18:25:15.500 [main] INFO  testCases.TC_001_LoginTest - driver enters password
-18:25:16.550 [main] INFO  testCases.TC_001_LoginTest - driver clicks on the login button
-18:25:16.622 [main] INFO  testCases.TC_001_LoginTest - The title of the LoginPage matched.
-18:25:16.980 [main] INFO  testCases.TC_001_LoginTest - Clicking on Log out link.
-18:25:17.004 [main] INFO  testCases.TC_001_LoginTest - Completed test: test_001_Login
-18:25:20.243 [main] INFO  testCases.TC_001_LoginTest - driver enters username
-18:25:20.291 [main] INFO  testCases.TC_001_LoginTest - driver enters password
-18:25:24.114 [main] INFO  testCases.TC_001_LoginTest - driver clicks on the login button
-18:25:24.125 [main] INFO  testCases.TC_001_LoginTest - The title of the LoginPage matched.
-18:25:24.125 [main] INFO  testCases.TC_001_LoginTest - Completed test: test_002_SecondLogin
-18:25:25.110 [main] INFO  testCases.TC_001_LoginTest - BaseClass: driver quits
-18:25:25.111 [main] TRACE testCases.TC_001_LoginTest - ********** END OF TEST **********
-18:25:29.923 [main] INFO  testCases.TC_003_AddCustomerTest - BaseClass: setup() completed for chrome browser
-18:26:42.222 [main] INFO  testCases.TC_001_LoginTest - BaseClass: setup() completed for chrome browser
-18:27:01.222 [main] INFO  testCases.TC_003_AddCustomerTest - BaseClass: setup() completed for chrome browser
-18:34:24.150 [main] INFO  testCases.TC_001_LoginTest - BaseClass: setup() completed for chrome browser
-18:34:29.230 [main] INFO  testCases.TC_001_LoginTest - driver navigates to the base URL 
-18:34:31.939 [main] INFO  testCases.TC_001_LoginTest - driver enters username
-18:34:31.998 [main] INFO  testCases.TC_001_LoginTest - driver enters password
-18:34:32.694 [main] INFO  testCases.TC_001_LoginTest - driver clicks on the login button
-18:34:32.703 [main] INFO  testCases.TC_001_LoginTest - The title of the LoginPage matched.
-18:34:33.121 [main] INFO  testCases.TC_001_LoginTest - Clicking on Log out link.
-18:34:33.131 [main] INFO  testCases.TC_001_LoginTest - Completed test: test_001_Login
-18:34:33.883 [main] INFO  testCases.TC_001_LoginTest - driver enters username
-18:34:33.958 [main] INFO  testCases.TC_001_LoginTest - driver enters password
-18:34:34.748 [main] INFO  testCases.TC_001_LoginTest - driver clicks on the login button
-18:34:34.759 [main] INFO  testCases.TC_001_LoginTest - The title of the LoginPage matched.
-18:34:34.759 [main] INFO  testCases.TC_001_LoginTest - Completed test: test_002_SecondLogin
-18:34:35.669 [main] INFO  testCases.TC_001_LoginTest - BaseClass: driver quits
-18:34:35.670 [main] TRACE testCases.TC_001_LoginTest - ********** END OF TEST **********
-18:34:39.603 [main] INFO  testCases.TC_003_AddCustomerTest - BaseClass: setup() completed for chrome browser
-18:34:41.245 [main] INFO  testCases.TC_003_AddCustomerTest - driver navigates to the base URL 
-18:34:41.325 [main] INFO  testCases.TC_003_AddCustomerTest - driver enters username
-18:34:41.387 [main] INFO  testCases.TC_003_AddCustomerTest - driver enters password
-18:34:42.486 [main] INFO  testCases.TC_003_AddCustomerTest - driver clicks on the login button
-18:34:42.492 [main] INFO  testCases.TC_003_AddCustomerTest - Login was successful.
-18:34:43.945 [main] INFO  testCases.TC_003_AddCustomerTest - driver clicks on the New Customer button
-18:34:44.004 [main] INFO  testCases.TC_003_AddCustomerTest - Entering Customer's name
-18:34:44.049 [main] INFO  testCases.TC_003_AddCustomerTest - Entering Customer's gender
-18:34:44.145 [main] INFO  testCases.TC_003_AddCustomerTest - Entering Customer's DOB
-18:34:44.223 [main] INFO  testCases.TC_003_AddCustomerTest - Entering Customer's address
-18:34:44.295 [main] INFO  testCases.TC_003_AddCustomerTest - Entering Customer's city
-18:34:44.339 [main] INFO  testCases.TC_003_AddCustomerTest - Entering Customer's state
-18:34:44.397 [main] INFO  testCases.TC_003_AddCustomerTest - Entering Customer's PIN
-18:34:44.454 [main] INFO  testCases.TC_003_AddCustomerTest - Entering Customer's mobile number
-18:34:44.544 [main] INFO  testCases.TC_003_AddCustomerTest - Entering Customer's email: wyUoV@mail.com
-18:34:44.596 [main] INFO  testCases.TC_003_AddCustomerTest - Entering Customer's password
-18:34:45.175 [main] INFO  testCases.TC_003_AddCustomerTest - Clicking on Submit button
-18:34:45.214 [main] INFO  testCases.TC_003_AddCustomerTest - Customer Registered Successfully
-18:34:45.214 [main] INFO  testCases.TC_003_AddCustomerTest - Completed test: addCustomerTest - PASSED
-18:34:46.094 [main] INFO  testCases.TC_003_AddCustomerTest - BaseClass: driver quits
-18:34:46.094 [main] TRACE testCases.TC_003_AddCustomerTest - ********** END OF TEST **********
-18:35:49.067 [main] INFO  testCases.TC_001_LoginTest - BaseClass: setup() completed for chrome browser
-18:35:53.548 [main] INFO  testCases.TC_001_LoginTest - driver navigates to the base URL 
-18:35:57.401 [main] INFO  testCases.TC_001_LoginTest - driver enters username
-18:35:57.463 [main] INFO  testCases.TC_001_LoginTest - driver enters password
-18:35:58.113 [main] INFO  testCases.TC_001_LoginTest - driver clicks on the login button
-18:35:58.125 [main] INFO  testCases.TC_001_LoginTest - The title of the LoginPage matched.
-18:35:58.441 [main] INFO  testCases.TC_001_LoginTest - Clicking on Log out link.
-18:35:58.451 [main] INFO  testCases.TC_001_LoginTest - Completed test: test_001_Login
-18:35:59.199 [main] INFO  testCases.TC_001_LoginTest - driver enters username
-18:35:59.253 [main] INFO  testCases.TC_001_LoginTest - driver enters password
-18:36:00.835 [main] INFO  testCases.TC_001_LoginTest - driver clicks on the login button
-18:36:00.843 [main] INFO  testCases.TC_001_LoginTest - The title of the LoginPage matched.
-18:36:00.843 [main] INFO  testCases.TC_001_LoginTest - Completed test: test_002_SecondLogin
-18:36:01.651 [main] INFO  testCases.TC_001_LoginTest - BaseClass: driver quits
-18:36:01.652 [main] TRACE testCases.TC_001_LoginTest - ********** END OF TEST **********
-18:36:05.538 [main] INFO  testCases.TC_003_AddCustomerTest - BaseClass: setup() completed for chrome browser
-18:36:09.252 [main] INFO  testCases.TC_003_AddCustomerTest - driver navigates to the base URL 
-18:36:11.069 [main] INFO  testCases.TC_003_AddCustomerTest - driver enters username
-18:36:11.124 [main] INFO  testCases.TC_003_AddCustomerTest - driver enters password
-18:36:12.089 [main] INFO  testCases.TC_003_AddCustomerTest - driver clicks on the login button
-18:36:12.096 [main] INFO  testCases.TC_003_AddCustomerTest - Login was successful.
-18:36:12.601 [main] INFO  testCases.TC_003_AddCustomerTest - driver clicks on the New Customer button
-18:36:12.662 [main] INFO  testCases.TC_003_AddCustomerTest - Entering Customer's name
-18:36:12.703 [main] INFO  testCases.TC_003_AddCustomerTest - Entering Customer's gender
-18:36:12.796 [main] INFO  testCases.TC_003_AddCustomerTest - Entering Customer's DOB
-18:36:12.871 [main] INFO  testCases.TC_003_AddCustomerTest - Entering Customer's address
-18:36:12.948 [main] INFO  testCases.TC_003_AddCustomerTest - Entering Customer's city
-18:36:12.990 [main] INFO  testCases.TC_003_AddCustomerTest - Entering Customer's state
-18:36:13.053 [main] INFO  testCases.TC_003_AddCustomerTest - Entering Customer's PIN
-18:36:13.118 [main] INFO  testCases.TC_003_AddCustomerTest - Entering Customer's mobile number
-18:36:13.197 [main] INFO  testCases.TC_003_AddCustomerTest - Entering Customer's email: mcdCt@mail.com
-18:36:13.252 [main] INFO  testCases.TC_003_AddCustomerTest - Entering Customer's password
-18:36:15.155 [main] INFO  testCases.TC_003_AddCustomerTest - Clicking on Submit button
-18:36:15.193 [main] INFO  testCases.TC_003_AddCustomerTest - Customer Registered Successfully
-18:36:15.193 [main] INFO  testCases.TC_003_AddCustomerTest - Completed test: addCustomerTest - PASSED
-18:36:16.154 [main] INFO  testCases.TC_003_AddCustomerTest - BaseClass: driver quits
-18:36:16.154 [main] TRACE testCases.TC_003_AddCustomerTest - ********** END OF TEST **********
+19:08:03.658 [main] INFO  testCases.TC_001_LoginTest - BaseClass: setup() completed for firefox browser
+19:08:05.927 [main] INFO  testCases.TC_001_LoginTest - driver navigates to the base URL 
+19:08:06.004 [main] INFO  testCases.TC_001_LoginTest - driver enters username
+19:08:06.030 [main] INFO  testCases.TC_001_LoginTest - driver enters password
+19:08:06.071 [main] INFO  testCases.TC_001_LoginTest - driver clicks on the login button
+19:08:06.149 [main] ERROR testCases.TC_001_LoginTest - The title of the LoginPage did NOT match.
+19:08:06.255 [main] ERROR testCases.TC_001_LoginTest - Screenshot was captured for test_001_Login
+19:08:06.255 [main] INFO  testCases.TC_001_LoginTest - Capturing the screenshot for the Extent Report
+19:08:06.551 [main] INFO  testCases.TC_001_LoginTest - Clicking on Log out link.
+19:08:07.093 [main] INFO  testCases.TC_001_LoginTest - Completed test: test_001_Login
+19:08:07.571 [main] INFO  testCases.TC_001_LoginTest - driver enters username
+19:08:07.595 [main] INFO  testCases.TC_001_LoginTest - driver enters password
+19:08:07.612 [main] INFO  testCases.TC_001_LoginTest - driver clicks on the login button
+19:08:07.618 [main] ERROR testCases.TC_001_LoginTest - The title of the LoginPage did NOT match.
+19:08:07.862 [main] ERROR testCases.TC_001_LoginTest - Screenshot was captured for test_002_SecondLogin
+19:08:07.862 [main] INFO  testCases.TC_001_LoginTest - Capturing the screenshot for the Extent Report
+19:08:07.862 [main] INFO  testCases.TC_001_LoginTest - Completed test: test_002_SecondLogin
+19:08:13.886 [main] INFO  testCases.TC_001_LoginTest - BaseClass: driver quits
+19:08:13.886 [main] TRACE testCases.TC_001_LoginTest - ********** END OF TEST **********
+19:08:21.104 [main] INFO  testCases.TC_003_AddCustomerTest - BaseClass: setup() completed for firefox browser
+19:08:23.343 [main] INFO  testCases.TC_003_AddCustomerTest - driver navigates to the base URL 
+19:08:23.386 [main] INFO  testCases.TC_003_AddCustomerTest - driver enters username
+19:08:23.411 [main] INFO  testCases.TC_003_AddCustomerTest - driver enters password
+19:08:23.452 [main] INFO  testCases.TC_003_AddCustomerTest - driver clicks on the login button
+19:08:23.454 [main] ERROR testCases.TC_003_AddCustomerTest - Login failed!
+19:08:25.062 [main] INFO  testCases.TC_003_AddCustomerTest - driver clicks on the New Customer button
+19:08:25.090 [main] INFO  testCases.TC_003_AddCustomerTest - Entering Customer's name
+19:08:25.110 [main] INFO  testCases.TC_003_AddCustomerTest - Entering Customer's gender
+19:08:25.146 [main] INFO  testCases.TC_003_AddCustomerTest - Entering Customer's DOB
+19:08:25.182 [main] INFO  testCases.TC_003_AddCustomerTest - Entering Customer's address
+19:08:25.221 [main] INFO  testCases.TC_003_AddCustomerTest - Entering Customer's city
+19:08:25.239 [main] INFO  testCases.TC_003_AddCustomerTest - Entering Customer's state
+19:08:25.262 [main] INFO  testCases.TC_003_AddCustomerTest - Entering Customer's PIN
+19:08:25.280 [main] INFO  testCases.TC_003_AddCustomerTest - Entering Customer's mobile number
+19:08:26.501 [main] INFO  testCases.TC_003_AddCustomerTest - Entering Customer's email: bTozx@mail.com
+19:08:26.542 [main] INFO  testCases.TC_003_AddCustomerTest - Entering Customer's password
+19:08:26.584 [main] INFO  testCases.TC_003_AddCustomerTest - Clicking on Submit button
+19:08:26.621 [main] ERROR testCases.TC_003_AddCustomerTest - Customer was NOT registered.
+19:08:26.716 [main] ERROR testCases.TC_003_AddCustomerTest - Screenshot was captured for addCustomerTest
+19:08:26.717 [main] INFO  testCases.TC_003_AddCustomerTest - Capturing the screenshot for the Extent Report
+19:08:26.717 [main] INFO  testCases.TC_003_AddCustomerTest - Completed test: addCustomerTest - FAILED
+19:08:29.750 [main] INFO  testCases.TC_003_AddCustomerTest - BaseClass: driver quits
+19:08:29.750 [main] TRACE testCases.TC_003_AddCustomerTest - ********** END OF TEST **********
+19:10:13.546 [main] INFO  testCases.TC_001_LoginTest - BaseClass: setup() completed for firefox browser
+19:10:15.713 [main] INFO  testCases.TC_001_LoginTest - driver navigates to the base URL 
+19:10:15.774 [main] INFO  testCases.TC_001_LoginTest - driver enters username
+19:10:15.801 [main] INFO  testCases.TC_001_LoginTest - driver enters password
+19:10:15.831 [main] INFO  testCases.TC_001_LoginTest - driver clicks on the login button
+19:10:15.851 [main] ERROR testCases.TC_001_LoginTest - The title of the LoginPage did NOT match.
+19:10:15.988 [main] ERROR testCases.TC_001_LoginTest - Screenshot was captured for test_001_Login
+19:10:15.988 [main] INFO  testCases.TC_001_LoginTest - Capturing the screenshot for the Extent Report
+19:10:16.397 [main] INFO  testCases.TC_001_LoginTest - Clicking on Log out link.
+19:10:16.952 [main] INFO  testCases.TC_001_LoginTest - Completed test: test_001_Login
+19:10:17.225 [main] INFO  testCases.TC_001_LoginTest - driver enters username
+19:10:17.252 [main] INFO  testCases.TC_001_LoginTest - driver enters password
+19:10:17.273 [main] INFO  testCases.TC_001_LoginTest - driver clicks on the login button
+19:10:17.279 [main] ERROR testCases.TC_001_LoginTest - The title of the LoginPage did NOT match.
+19:10:17.342 [main] ERROR testCases.TC_001_LoginTest - Screenshot was captured for test_002_SecondLogin
+19:10:17.342 [main] INFO  testCases.TC_001_LoginTest - Capturing the screenshot for the Extent Report
+19:10:17.342 [main] INFO  testCases.TC_001_LoginTest - Completed test: test_002_SecondLogin
+19:10:20.044 [main] INFO  testCases.TC_001_LoginTest - BaseClass: driver quits
+19:10:20.044 [main] TRACE testCases.TC_001_LoginTest - ********** END OF TEST **********
+19:10:25.846 [main] INFO  testCases.TC_003_AddCustomerTest - BaseClass: setup() completed for firefox browser
+19:10:27.544 [main] INFO  testCases.TC_003_AddCustomerTest - driver navigates to the base URL 
+19:10:27.604 [main] INFO  testCases.TC_003_AddCustomerTest - driver enters username
+19:10:27.628 [main] INFO  testCases.TC_003_AddCustomerTest - driver enters password
+19:10:27.714 [main] INFO  testCases.TC_003_AddCustomerTest - driver clicks on the login button
+19:10:27.736 [main] ERROR testCases.TC_003_AddCustomerTest - Login failed!
+19:10:28.636 [main] INFO  testCases.TC_003_AddCustomerTest - driver clicks on the New Customer button
+19:10:28.692 [main] INFO  testCases.TC_003_AddCustomerTest - Entering Customer's name
+19:10:28.724 [main] INFO  testCases.TC_003_AddCustomerTest - Entering Customer's gender
+19:10:28.785 [main] INFO  testCases.TC_003_AddCustomerTest - Entering Customer's DOB
+19:10:28.824 [main] INFO  testCases.TC_003_AddCustomerTest - Entering Customer's address
+19:10:29.170 [main] INFO  testCases.TC_003_AddCustomerTest - Entering Customer's city
+19:10:29.204 [main] INFO  testCases.TC_003_AddCustomerTest - Entering Customer's state
+19:10:29.258 [main] INFO  testCases.TC_003_AddCustomerTest - Entering Customer's PIN
+19:10:29.286 [main] INFO  testCases.TC_003_AddCustomerTest - Entering Customer's mobile number
+19:10:29.330 [main] INFO  testCases.TC_003_AddCustomerTest - Entering Customer's email: VfYtm@mail.com
+19:10:29.350 [main] INFO  testCases.TC_003_AddCustomerTest - Entering Customer's password
+19:10:29.390 [main] INFO  testCases.TC_003_AddCustomerTest - Clicking on Submit button
+19:10:29.678 [main] ERROR testCases.TC_003_AddCustomerTest - Customer was NOT registered.
+19:10:29.758 [main] ERROR testCases.TC_003_AddCustomerTest - Screenshot was captured for addCustomerTest
+19:10:29.758 [main] INFO  testCases.TC_003_AddCustomerTest - Capturing the screenshot for the Extent Report
+19:10:29.758 [main] INFO  testCases.TC_003_AddCustomerTest - Completed test: addCustomerTest - FAILED
+19:10:31.720 [main] INFO  testCases.TC_003_AddCustomerTest - BaseClass: driver quits
+19:10:31.720 [main] TRACE testCases.TC_003_AddCustomerTest - ********** END OF TEST **********
+19:11:06.931 [main] INFO  testCases.TC_001_LoginTest - BaseClass: setup() completed for chrome browser
+19:11:14.474 [main] INFO  testCases.TC_001_LoginTest - driver navigates to the base URL 
+19:11:17.874 [main] INFO  testCases.TC_001_LoginTest - driver enters username
+19:11:17.946 [main] INFO  testCases.TC_001_LoginTest - driver enters password
+19:11:21.411 [main] INFO  testCases.TC_001_LoginTest - driver clicks on the login button
+19:11:21.439 [main] INFO  testCases.TC_001_LoginTest - The title of the LoginPage matched.
+19:11:21.961 [main] INFO  testCases.TC_001_LoginTest - Clicking on Log out link.
+19:11:21.971 [main] INFO  testCases.TC_001_LoginTest - Completed test: test_001_Login
+19:11:24.147 [main] INFO  testCases.TC_001_LoginTest - driver enters username
+19:11:24.193 [main] INFO  testCases.TC_001_LoginTest - driver enters password
+19:11:27.064 [main] INFO  testCases.TC_001_LoginTest - driver clicks on the login button
+19:11:27.073 [main] INFO  testCases.TC_001_LoginTest - The title of the LoginPage matched.
+19:11:27.073 [main] INFO  testCases.TC_001_LoginTest - Completed test: test_002_SecondLogin
+19:11:28.777 [main] INFO  testCases.TC_001_LoginTest - BaseClass: driver quits
+19:11:28.777 [main] TRACE testCases.TC_001_LoginTest - ********** END OF TEST **********
+19:11:33.043 [main] INFO  testCases.TC_003_AddCustomerTest - BaseClass: setup() completed for chrome browser
+19:11:37.082 [main] INFO  testCases.TC_003_AddCustomerTest - driver navigates to the base URL 
+19:11:39.584 [main] INFO  testCases.TC_003_AddCustomerTest - driver enters username
+19:11:39.637 [main] INFO  testCases.TC_003_AddCustomerTest - driver enters password
+19:11:40.613 [main] INFO  testCases.TC_003_AddCustomerTest - driver clicks on the login button
+19:11:40.618 [main] INFO  testCases.TC_003_AddCustomerTest - Login was successful.
+19:11:43.998 [main] INFO  testCases.TC_003_AddCustomerTest - driver clicks on the New Customer button
+19:11:44.159 [main] INFO  testCases.TC_003_AddCustomerTest - Entering Customer's name
+19:11:44.346 [main] INFO  testCases.TC_003_AddCustomerTest - Entering Customer's gender
+19:11:44.506 [main] INFO  testCases.TC_003_AddCustomerTest - Entering Customer's DOB
+19:11:44.627 [main] INFO  testCases.TC_003_AddCustomerTest - Entering Customer's address
+19:11:44.701 [main] INFO  testCases.TC_003_AddCustomerTest - Entering Customer's city
+19:11:44.745 [main] INFO  testCases.TC_003_AddCustomerTest - Entering Customer's state
+19:11:44.806 [main] INFO  testCases.TC_003_AddCustomerTest - Entering Customer's PIN
+19:11:44.871 [main] INFO  testCases.TC_003_AddCustomerTest - Entering Customer's mobile number
+19:11:44.956 [main] INFO  testCases.TC_003_AddCustomerTest - Entering Customer's email: lcMsk@mail.com
+19:11:45.011 [main] INFO  testCases.TC_003_AddCustomerTest - Entering Customer's password
+19:11:47.726 [main] INFO  testCases.TC_003_AddCustomerTest - Clicking on Submit button
+19:11:47.854 [main] INFO  testCases.TC_003_AddCustomerTest - Customer Registered Successfully
+19:11:47.854 [main] INFO  testCases.TC_003_AddCustomerTest - Completed test: addCustomerTest - PASSED
+19:11:49.066 [main] INFO  testCases.TC_003_AddCustomerTest - BaseClass: driver quits
+19:11:49.066 [main] TRACE testCases.TC_003_AddCustomerTest - ********** END OF TEST **********
+19:12:43.443 [main] INFO  testCases.TC_001_LoginTest - BaseClass: setup() completed for chrome browser
+19:12:49.395 [main] INFO  testCases.TC_001_LoginTest - driver navigates to the base URL 
+19:12:53.715 [main] INFO  testCases.TC_001_LoginTest - driver enters username
+19:12:53.769 [main] INFO  testCases.TC_001_LoginTest - driver enters password
+19:12:54.949 [main] INFO  testCases.TC_001_LoginTest - driver clicks on the login button
+19:12:54.962 [main] INFO  testCases.TC_001_LoginTest - The title of the LoginPage matched.
+19:12:55.298 [main] INFO  testCases.TC_001_LoginTest - Clicking on Log out link.
+19:12:55.306 [main] INFO  testCases.TC_001_LoginTest - Completed test: test_001_Login
+19:12:57.902 [main] INFO  testCases.TC_001_LoginTest - driver enters username
+19:12:57.952 [main] INFO  testCases.TC_001_LoginTest - driver enters password
+19:12:59.611 [main] INFO  testCases.TC_001_LoginTest - driver clicks on the login button
+19:12:59.621 [main] INFO  testCases.TC_001_LoginTest - The title of the LoginPage matched.
+19:12:59.621 [main] INFO  testCases.TC_001_LoginTest - Completed test: test_002_SecondLogin
+19:13:00.488 [main] INFO  testCases.TC_001_LoginTest - BaseClass: driver quits
+19:13:00.489 [main] TRACE testCases.TC_001_LoginTest - ********** END OF TEST **********
+19:13:04.763 [main] INFO  testCases.TC_003_AddCustomerTest - BaseClass: setup() completed for chrome browser
+19:13:09.058 [main] INFO  testCases.TC_003_AddCustomerTest - driver navigates to the base URL 
+19:13:12.045 [main] INFO  testCases.TC_003_AddCustomerTest - driver enters username
+19:13:12.121 [main] INFO  testCases.TC_003_AddCustomerTest - driver enters password
+19:13:13.192 [main] INFO  testCases.TC_003_AddCustomerTest - driver clicks on the login button
+19:13:13.198 [main] INFO  testCases.TC_003_AddCustomerTest - Login was successful.
+19:13:15.744 [main] INFO  testCases.TC_003_AddCustomerTest - driver clicks on the New Customer button
+19:13:15.809 [main] INFO  testCases.TC_003_AddCustomerTest - Entering Customer's name
+19:13:15.855 [main] INFO  testCases.TC_003_AddCustomerTest - Entering Customer's gender
+19:13:15.951 [main] INFO  testCases.TC_003_AddCustomerTest - Entering Customer's DOB
+19:13:16.032 [main] INFO  testCases.TC_003_AddCustomerTest - Entering Customer's address
+19:13:16.105 [main] INFO  testCases.TC_003_AddCustomerTest - Entering Customer's city
+19:13:16.149 [main] INFO  testCases.TC_003_AddCustomerTest - Entering Customer's state
+19:13:16.220 [main] INFO  testCases.TC_003_AddCustomerTest - Entering Customer's PIN
+19:13:16.280 [main] INFO  testCases.TC_003_AddCustomerTest - Entering Customer's mobile number
+19:13:16.365 [main] INFO  testCases.TC_003_AddCustomerTest - Entering Customer's email: EZrjS@mail.com
+19:13:16.424 [main] INFO  testCases.TC_003_AddCustomerTest - Entering Customer's password
+19:13:17.897 [main] INFO  testCases.TC_003_AddCustomerTest - Clicking on Submit button
+19:13:17.961 [main] INFO  testCases.TC_003_AddCustomerTest - Customer Registered Successfully
+19:13:17.961 [main] INFO  testCases.TC_003_AddCustomerTest - Completed test: addCustomerTest - PASSED
+19:13:19.011 [main] INFO  testCases.TC_003_AddCustomerTest - BaseClass: driver quits
+19:13:19.011 [main] TRACE testCases.TC_003_AddCustomerTest - ********** END OF TEST **********

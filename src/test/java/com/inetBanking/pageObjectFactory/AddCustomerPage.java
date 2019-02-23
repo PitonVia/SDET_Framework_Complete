@@ -39,6 +39,7 @@ public class AddCustomerPage {
 	@FindBy(name="password") @CacheLookup WebElement passwordTxt;
 	@FindBy(name="sub") @CacheLookup WebElement submitBtn;
 	@FindBy(css=".heading3") WebElement confirmationHeader;
+	@FindBy(className="heading3") WebElement confirmationHeader2;
 	
 
 	// Special method for handling DOB, since data has to be entered in 3 parts
@@ -87,5 +88,8 @@ public class AddCustomerPage {
 	}
 	public WebElement getConfirmationHeader() {
 		return confirmationHeader;
+	}
+	public WebElement getConfirmationHeader2() {
+		return confirmationHeader2;
 	}
 }

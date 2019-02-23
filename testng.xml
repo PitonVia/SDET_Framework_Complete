@@ -7,7 +7,7 @@
 	</listeners>
 
 	<test thread-count="5" name="Internet Banking App Test on Chrome">
-		<parameter name="browser" value="chrome" />
+		<parameter name="browser" value="chrome"/>
 		<classes>
 			<!-- We don't need to specify the BaseClass - only TCs with @Test methods  -->
 			<!-- BaseClass @Before/AfterClass methods will be run as they are inside the pkg  -->

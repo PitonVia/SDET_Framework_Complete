@@ -87,7 +87,7 @@ public class TC_003_AddCustomerTest extends BaseClass {
 		log.info("Clicking on Submit button");	
 		
 		// We want to wait until the confirmation header becomes visible
-		sm.WaitUntilWebElementIsVisible(ac.getConfirmationHeader());
+		sm.WaitUntilWebElementIsVisible(ac.getConfirmationHeader2());
 		
 		// Check if after submitting customer details, the page contains  
 		boolean response = driver.getPageSource().contains(AddCustomerPage.Confirmation);
@@ -103,7 +103,7 @@ public class TC_003_AddCustomerTest extends BaseClass {
 			log.info("Capturing the screenshot for the Extent Report");
 			log.info("Completed test: " + Thread.currentThread().getStackTrace()[1].getMethodName() + " - FAILED");
 			
-			softAssertion.assertEquals(ac.getConfirmationHeader().getText(), AddCustomerPage.Confirmation);
+			softAssertion.assertEquals(ac.getConfirmationHeader2().getText(), AddCustomerPage.Confirmation);
 		}
 		softAssertion.assertAll(); 
 	}

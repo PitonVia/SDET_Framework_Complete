@@ -215,6 +215,7 @@ public class SeleniumMethods extends BaseClass {
 	public boolean WaitUntilWebElementIsVisible(WebElement element) {
 		try {
 			wait.until(ExpectedConditions.visibilityOf(element));
+			wait.until(ExpectedConditions.elementToBeClickable(element));  // added to test this
 			System.out.println("WebElement is visible using locator: " + "<" + element.toString() + ">");
 			return true;
 		} catch (Exception e) {

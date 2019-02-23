@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="33.386" tests="3" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="39.645" tests="3" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.vendor" value="Oracle Corporation"/>
     <property name="JOB_NAME" value="SDET_Framework_Complete"/>
@@ -29,8 +29,8 @@
     <property name="PROMPT" value="$P$G"/>
     <property name="user.language" value="en"/>
     <property name="JOB_BASE_NAME" value="SDET_Framework_Complete"/>
-    <property name="RUN_CHANGES_DISPLAY_URL" value="http://localhost:8080/job/SDET_Framework_Complete/7/display/redirect?page=changes"/>
-    <property name="BUILD_DISPLAY_NAME" value="#7"/>
+    <property name="RUN_CHANGES_DISPLAY_URL" value="http://localhost:8080/job/SDET_Framework_Complete/8/display/redirect?page=changes"/>
+    <property name="BUILD_DISPLAY_NAME" value="#8"/>
     <property name="OneDrive" value="C:\Users\Pitoshka\OneDrive"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_191\jre\bin"/>
     <property name="LOCALAPPDATA" value="C:\Users\Pitoshka\AppData\Local"/>
@@ -41,7 +41,7 @@
     <property name="sun.arch.data.model" value="64"/>
     <property name="NODE_NAME" value="master"/>
     <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_191\jre\lib\endorsed"/>
-    <property name="BUILD_ID" value="7"/>
+    <property name="BUILD_ID" value="8"/>
     <property name="sun.cpu.isalist" value="amd64"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
     <property name="file.encoding.pkg" value="sun.io"/>
@@ -57,7 +57,7 @@
     <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_191\jre"/>
     <property name="java.vm.info" value="mixed mode"/>
     <property name="os.version" value="10.0"/>
-    <property name="RUN_DISPLAY_URL" value="http://localhost:8080/job/SDET_Framework_Complete/7/display/redirect"/>
+    <property name="RUN_DISPLAY_URL" value="http://localhost:8080/job/SDET_Framework_Complete/8/display/redirect"/>
     <property name="POM_VERSION" value="0.0.1-SNAPSHOT"/>
     <property name="configsetroot" value="C:\WINDOWS\ConfigSetRoot"/>
     <property name="TMP" value="C:\Users\Pitoshka\AppData\Local\Temp"/>
@@ -82,7 +82,7 @@
     <property name="VBOX_MSI_INSTALL_PATH" value="C:\Program Files\Oracle\VirtualBox\"/>
     <property name="user.home" value="C:\Users\Pitoshka"/>
     <property name="PUBLIC" value="C:\Users\Public"/>
-    <property name="BUILD_TAG" value="jenkins-SDET_Framework_Complete-7"/>
+    <property name="BUILD_TAG" value="jenkins-SDET_Framework_Complete-8"/>
     <property name="JENKINS_SERVER_COOKIE" value="5c46b52f7709d641"/>
     <property name="HUDSON_URL" value="http://localhost:8080/"/>
     <property name="ProgramData" value="C:\ProgramData"/>
@@ -96,7 +96,7 @@
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="maven.home" value="D:\Yo\QA\Automation\apache-maven-3.6.0"/>
     <property name="java.class.path" value="C:\Users\Pitoshka\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-agent-1.12.jar;D:\Yo\QA\Automation\apache-maven-3.6.0\boot\plexus-classworlds-2.5.2.jar;D:\Yo\QA\Automation\apache-maven-3.6.0/conf/logging"/>
-    <property name="sun.java.command" value="jenkins.maven3.agent.Maven35Main D:\Yo\QA\Automation\apache-maven-3.6.0 C:\Users\Pitoshka\.jenkins\war\WEB-INF\lib\remoting-3.27.jar C:\Users\Pitoshka\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.12.jar C:\Users\Pitoshka\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.12.jar 51658"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven35Main D:\Yo\QA\Automation\apache-maven-3.6.0 C:\Users\Pitoshka\.jenkins\war\WEB-INF\lib\remoting-3.27.jar C:\Users\Pitoshka\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.12.jar C:\Users\Pitoshka\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.12.jar 51962"/>
     <property name="Path" value="C:\Program Files\Java\jdk1.8.0_191/bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\SourceGear\Common\DiffMerge\;D:\Yo\QA\Automation\Selenium_java_3.14.0\BrowserDrivers;D:\Yo\QA\SQLite\sqlite-tools-win32-x86-3250200;C:\Program Files\Java\jdk1.8.0_191\bin;C:\apache-maven-3.6.0\bin;D:\Yo\QA\SOUP_UI\Server_for_WS_local_hosting\axis2-1.6.2\bin;C:\Program Files (x86)\MySQL\MySQL Utilities 1.6\;C:\Program Files\Git\cmd;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\HashiCorp\Vagrant\bin;C:\Program Files (x86)\Brackets\command;C:\Program Files (x86)\HP\IdrsOCR_15.2.10.1114\;C:\Users\Pitoshka\AppData\Local\Microsoft\WindowsApps;D:\Yo\QA\SQLite\sqlite-tools-win32-x86-3250200;C:\Users\Pitoshka\AppData\Local\atom\bin"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="PROCESSOR_ARCHITECTURE" value="AMD64"/>
@@ -113,7 +113,7 @@
     <property name="HUDSON_HOME" value="C:\Users\Pitoshka\.jenkins"/>
     <property name="PATH+MAVEN" value="D:\Yo\QA\Automation\apache-maven-3.6.0/bin"/>
     <property name="ProgramFiles(x86)" value="C:\Program Files (x86)"/>
-    <property name="BUILD_URL" value="http://localhost:8080/job/SDET_Framework_Complete/7/"/>
+    <property name="BUILD_URL" value="http://localhost:8080/job/SDET_Framework_Complete/8/"/>
     <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
     <property name="os.arch" value="amd64"/>
@@ -126,7 +126,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="MAVEN_HOME" value="D:\Yo\QA\Automation\apache-maven-3.6.0"/>
     <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
-    <property name="BUILD_NUMBER" value="7"/>
+    <property name="BUILD_NUMBER" value="8"/>
     <property name="JENKINS_URL" value="http://localhost:8080/"/>
     <property name="PROCESSOR_REVISION" value="9e09"/>
     <property name="ProgramW6432" value="C:\Program Files"/>
@@ -141,7 +141,7 @@
     <property name="PSModulePath" value="C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files\Intel\"/>
     <property name="DriverData" value="C:\Windows\System32\Drivers\DriverData"/>
   </properties>
-  <testcase name="test_001_Login" classname="com.inetBanking.testCases.TC_001_LoginTest" time="4.9"/>
-  <testcase name="test_002_SecondLogin" classname="com.inetBanking.testCases.TC_001_LoginTest" time="2.384"/>
-  <testcase name="addCustomerTest" classname="com.inetBanking.testCases.TC_003_AddCustomerTest" time="5.942"/>
+  <testcase name="test_001_Login" classname="com.inetBanking.testCases.TC_001_LoginTest" time="4.784"/>
+  <testcase name="test_002_SecondLogin" classname="com.inetBanking.testCases.TC_001_LoginTest" time="4.691"/>
+  <testcase name="addCustomerTest" classname="com.inetBanking.testCases.TC_003_AddCustomerTest" time="8.631"/>
 </testsuite>

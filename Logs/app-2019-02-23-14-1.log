@@ -1,0 +1,54 @@
+14:14:47.238 [main] INFO  testCases.TC_004_AddCustomerDDT - BaseClass: setup() completed for chrome browser
+14:14:53.084 [main] INFO  testCases.TC_004_AddCustomerDDT - driver navigates to the base URL 
+14:14:55.846 [main] INFO  testCases.TC_004_AddCustomerDDT - driver enters username
+14:14:55.908 [main] INFO  testCases.TC_004_AddCustomerDDT - driver enters password
+14:14:58.194 [main] INFO  testCases.TC_004_AddCustomerDDT - driver clicks on the login button
+14:14:58.199 [main] INFO  testCases.TC_004_AddCustomerDDT - Login was successful.
+14:15:00.088 [main] INFO  testCases.TC_004_AddCustomerDDT - driver clicks on the New Customer button
+14:15:00.521 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's name
+14:15:00.565 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's gender
+14:15:00.662 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's DOB
+14:15:00.738 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's address
+14:15:00.813 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's city
+14:15:00.860 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's state
+14:15:00.917 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's PIN
+14:15:00.986 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's mobile number
+14:15:01.071 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's email: uksUp@mail.com
+14:15:01.119 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's password
+14:15:03.043 [main] INFO  testCases.TC_004_AddCustomerDDT - Clicking on Submit button
+14:15:03.113 [main] INFO  testCases.TC_004_AddCustomerDDT - Customer Registered Successfully
+14:15:03.114 [main] INFO  testCases.TC_004_AddCustomerDDT - Completed test: addCustomerTest - PASSED
+14:15:03.732 [main] INFO  testCases.TC_004_AddCustomerDDT - driver clicks on the Home button
+14:15:05.935 [main] INFO  testCases.TC_004_AddCustomerDDT - driver clicks on the New Customer button
+14:15:06.011 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's name
+14:15:06.053 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's gender
+14:15:06.134 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's DOB
+14:15:06.197 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's address
+14:15:06.242 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's city
+14:15:06.281 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's state
+14:15:06.340 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's PIN
+14:15:06.397 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's mobile number
+14:15:06.473 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's email: BGIua@mail.com
+14:15:06.521 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's password
+14:15:10.705 [main] INFO  testCases.TC_004_AddCustomerDDT - Clicking on Submit button
+14:15:10.772 [main] INFO  testCases.TC_004_AddCustomerDDT - Customer Registered Successfully
+14:15:10.772 [main] INFO  testCases.TC_004_AddCustomerDDT - Completed test: addCustomerTest - PASSED
+14:15:11.251 [main] INFO  testCases.TC_004_AddCustomerDDT - driver clicks on the Home button
+14:15:11.633 [main] INFO  testCases.TC_004_AddCustomerDDT - driver clicks on the New Customer button
+14:15:11.711 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's name
+14:15:11.751 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's gender
+14:15:11.833 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's DOB
+14:15:11.896 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's address
+14:15:11.948 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's city
+14:15:11.987 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's state
+14:15:12.036 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's PIN
+14:15:12.093 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's mobile number
+14:15:12.166 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's email: tQssk@mail.com
+14:15:12.212 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's password
+14:15:12.709 [main] INFO  testCases.TC_004_AddCustomerDDT - Clicking on Submit button
+14:15:12.768 [main] INFO  testCases.TC_004_AddCustomerDDT - Customer Registered Successfully
+14:15:12.768 [main] INFO  testCases.TC_004_AddCustomerDDT - Completed test: addCustomerTest - PASSED
+14:15:13.275 [main] INFO  testCases.TC_004_AddCustomerDDT - driver clicks on the Home button
+14:15:13.276 [main] INFO  testCases.TC_004_AddCustomerDDT - Customer data extraction from the Excel is completed.
+14:15:14.060 [main] INFO  testCases.TC_004_AddCustomerDDT - BaseClass: driver quits
+14:15:14.060 [main] TRACE testCases.TC_004_AddCustomerDDT - ********** END OF TEST **********

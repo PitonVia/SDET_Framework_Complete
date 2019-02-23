@@ -1,0 +1,465 @@
+13:00:51.494 [main] INFO  testCases.TC_004_AddCustomerDDT - BaseClass: setup() completed for chrome browser
+13:00:52.737 [main] INFO  testCases.TC_004_AddCustomerDDT - driver navigates to the base URL 
+13:00:52.985 [main] INFO  testCases.TC_004_AddCustomerDDT - driver enters username
+13:00:53.057 [main] INFO  testCases.TC_004_AddCustomerDDT - driver enters password
+13:00:53.884 [main] INFO  testCases.TC_004_AddCustomerDDT - driver clicks on the login button
+13:00:53.888 [main] INFO  testCases.TC_004_AddCustomerDDT - Login was successful.
+13:00:54.883 [main] INFO  testCases.TC_004_AddCustomerDDT - driver clicks on the New Customer button
+13:00:54.980 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's name
+13:00:55.026 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's gender
+13:00:55.114 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's DOB
+13:00:55.176 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's address
+13:00:55.251 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's city
+13:00:55.297 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's state
+13:00:55.351 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's PIN
+13:00:55.416 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's mobile number
+13:00:55.502 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's email: UXlcI@mail.com
+13:00:55.549 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's password
+13:00:57.050 [main] INFO  testCases.TC_004_AddCustomerDDT - Clicking on Submit button
+13:00:57.149 [main] INFO  testCases.TC_004_AddCustomerDDT - Customer Registered Successfully
+13:00:57.151 [main] INFO  testCases.TC_004_AddCustomerDDT - Completed test: addCustomerTest - PASSED
+13:00:57.683 [main] INFO  testCases.TC_004_AddCustomerDDT - driver clicks on the Home button
+13:01:00.166 [main] INFO  testCases.TC_004_AddCustomerDDT - driver clicks on the New Customer button
+13:01:02.250 [main] INFO  testCases.TC_004_AddCustomerDDT - driver clicks on the New Customer button
+13:01:02.320 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's name
+13:01:02.361 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's gender
+13:01:02.453 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's DOB
+13:01:02.515 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's address
+13:01:02.564 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's city
+13:01:02.604 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's state
+13:01:02.657 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's PIN
+13:01:02.719 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's mobile number
+13:01:02.813 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's email: gCaXR@mail.com
+13:01:02.864 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's password
+13:01:05.736 [main] INFO  testCases.TC_004_AddCustomerDDT - Clicking on Submit button
+13:01:05.804 [main] INFO  testCases.TC_004_AddCustomerDDT - Customer Registered Successfully
+13:01:05.805 [main] INFO  testCases.TC_004_AddCustomerDDT - Completed test: addCustomerTest - PASSED
+13:01:07.086 [main] INFO  testCases.TC_004_AddCustomerDDT - driver clicks on the Home button
+13:01:10.619 [main] INFO  testCases.TC_004_AddCustomerDDT - driver clicks on the New Customer button
+13:01:12.719 [main] INFO  testCases.TC_004_AddCustomerDDT - driver clicks on the New Customer button
+13:01:12.797 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's name
+13:01:12.832 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's gender
+13:01:12.920 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's DOB
+13:01:12.983 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's address
+13:01:13.037 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's city
+13:01:13.081 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's state
+13:01:13.134 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's PIN
+13:01:13.194 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's mobile number
+13:01:13.315 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's email: oShXV@mail.com
+13:01:13.369 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's password
+13:01:14.476 [main] INFO  testCases.TC_004_AddCustomerDDT - Clicking on Submit button
+13:01:15.270 [main] INFO  testCases.TC_004_AddCustomerDDT - BaseClass: driver quits
+13:01:15.270 [main] TRACE testCases.TC_004_AddCustomerDDT - ********** END OF TEST **********
+13:03:31.551 [main] INFO  testCases.TC_004_AddCustomerDDT - BaseClass: setup() completed for chrome browser
+13:03:37.453 [main] INFO  testCases.TC_004_AddCustomerDDT - driver navigates to the base URL 
+13:03:37.555 [main] INFO  testCases.TC_004_AddCustomerDDT - driver enters username
+13:03:37.615 [main] INFO  testCases.TC_004_AddCustomerDDT - driver enters password
+13:03:43.121 [main] INFO  testCases.TC_004_AddCustomerDDT - driver clicks on the login button
+13:03:43.125 [main] INFO  testCases.TC_004_AddCustomerDDT - Login was successful.
+13:03:44.432 [main] INFO  testCases.TC_004_AddCustomerDDT - driver clicks on the New Customer button
+13:03:44.530 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's name
+13:03:44.573 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's gender
+13:03:44.660 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's DOB
+13:03:44.721 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's address
+13:03:44.794 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's city
+13:03:44.855 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's state
+13:03:44.923 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's PIN
+13:03:44.988 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's mobile number
+13:03:45.074 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's email: CGjnw@mail.com
+13:03:45.124 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's password
+13:03:46.007 [main] INFO  testCases.TC_004_AddCustomerDDT - Clicking on Submit button
+13:03:46.076 [main] INFO  testCases.TC_004_AddCustomerDDT - Customer Registered Successfully
+13:03:46.078 [main] INFO  testCases.TC_004_AddCustomerDDT - Completed test: addCustomerTest - PASSED
+13:03:46.658 [main] INFO  testCases.TC_004_AddCustomerDDT - driver clicks on the Home button
+13:03:47.531 [main] INFO  testCases.TC_004_AddCustomerDDT - driver clicks on the New Customer button
+13:03:49.613 [main] INFO  testCases.TC_004_AddCustomerDDT - driver clicks on the New Customer button
+13:03:49.687 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's name
+13:03:49.731 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's gender
+13:03:49.825 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's DOB
+13:03:49.888 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's address
+13:03:49.938 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's city
+13:03:49.981 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's state
+13:03:50.031 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's PIN
+13:03:50.094 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's mobile number
+13:03:50.210 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's email: tYzAV@mail.com
+13:03:50.266 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's password
+13:03:53.469 [main] INFO  testCases.TC_004_AddCustomerDDT - Clicking on Submit button
+13:03:53.524 [main] INFO  testCases.TC_004_AddCustomerDDT - Customer Registered Successfully
+13:03:53.525 [main] INFO  testCases.TC_004_AddCustomerDDT - Completed test: addCustomerTest - PASSED
+13:03:55.219 [main] INFO  testCases.TC_004_AddCustomerDDT - driver clicks on the Home button
+13:03:56.719 [main] INFO  testCases.TC_004_AddCustomerDDT - driver clicks on the New Customer button
+13:03:58.789 [main] INFO  testCases.TC_004_AddCustomerDDT - driver clicks on the New Customer button
+13:03:58.874 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's name
+13:03:58.916 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's gender
+13:03:59.004 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's DOB
+13:03:59.070 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's address
+13:03:59.123 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's city
+13:03:59.164 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's state
+13:03:59.217 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's PIN
+13:03:59.277 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's mobile number
+13:03:59.353 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's email: rFmcV@mail.com
+13:03:59.397 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's password
+13:04:03.510 [main] INFO  testCases.TC_004_AddCustomerDDT - Clicking on Submit button
+13:04:03.569 [main] INFO  testCases.TC_004_AddCustomerDDT - Customer Registered Successfully
+13:04:03.569 [main] INFO  testCases.TC_004_AddCustomerDDT - Completed test: addCustomerTest - PASSED
+13:04:05.144 [main] INFO  testCases.TC_004_AddCustomerDDT - driver clicks on the Home button
+13:04:07.226 [main] INFO  testCases.TC_004_AddCustomerDDT - driver clicks on the New Customer button
+13:04:10.032 [main] INFO  testCases.TC_004_AddCustomerDDT - BaseClass: driver quits
+13:04:10.032 [main] TRACE testCases.TC_004_AddCustomerDDT - ********** END OF TEST **********
+13:06:34.764 [main] INFO  testCases.TC_004_AddCustomerDDT - BaseClass: setup() completed for chrome browser
+13:06:38.116 [main] INFO  testCases.TC_004_AddCustomerDDT - driver navigates to the base URL 
+13:06:39.672 [main] INFO  testCases.TC_004_AddCustomerDDT - driver enters username
+13:06:39.729 [main] INFO  testCases.TC_004_AddCustomerDDT - driver enters password
+13:06:40.385 [main] INFO  testCases.TC_004_AddCustomerDDT - driver clicks on the login button
+13:06:40.389 [main] INFO  testCases.TC_004_AddCustomerDDT - Login was successful.
+13:06:41.258 [main] INFO  testCases.TC_004_AddCustomerDDT - driver clicks on the New Customer button
+13:06:41.352 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's name
+13:06:41.396 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's gender
+13:06:41.492 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's DOB
+13:06:41.550 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's address
+13:06:41.626 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's city
+13:06:41.670 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's state
+13:06:41.724 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's PIN
+13:06:41.790 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's mobile number
+13:06:41.877 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's email: MdVQA@mail.com
+13:06:41.928 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's password
+13:06:42.375 [main] INFO  testCases.TC_004_AddCustomerDDT - Clicking on Submit button
+13:06:42.440 [main] INFO  testCases.TC_004_AddCustomerDDT - Customer Registered Successfully
+13:06:42.443 [main] INFO  testCases.TC_004_AddCustomerDDT - Completed test: addCustomerTest - PASSED
+13:06:43.935 [main] INFO  testCases.TC_004_AddCustomerDDT - driver clicks on the Home button
+13:06:45.285 [main] INFO  testCases.TC_004_AddCustomerDDT - driver clicks on the New Customer button
+13:06:45.353 [main] INFO  testCases.TC_004_AddCustomerDDT - driver clicks on the New Customer button
+13:06:45.426 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's name
+13:06:45.467 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's gender
+13:06:45.555 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's DOB
+13:06:45.616 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's address
+13:06:45.670 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's city
+13:06:45.711 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's state
+13:06:45.761 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's PIN
+13:06:45.817 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's mobile number
+13:06:45.896 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's email: BUaed@mail.com
+13:06:45.946 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's password
+13:06:47.608 [main] INFO  testCases.TC_004_AddCustomerDDT - Clicking on Submit button
+13:06:47.669 [main] INFO  testCases.TC_004_AddCustomerDDT - Customer Registered Successfully
+13:06:47.669 [main] INFO  testCases.TC_004_AddCustomerDDT - Completed test: addCustomerTest - PASSED
+13:06:49.233 [main] INFO  testCases.TC_004_AddCustomerDDT - driver clicks on the Home button
+13:06:50.701 [main] INFO  testCases.TC_004_AddCustomerDDT - driver clicks on the New Customer button
+13:06:50.763 [main] INFO  testCases.TC_004_AddCustomerDDT - driver clicks on the New Customer button
+13:06:50.834 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's name
+13:06:50.875 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's gender
+13:06:50.960 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's DOB
+13:06:51.029 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's address
+13:06:51.084 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's city
+13:06:51.128 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's state
+13:06:51.175 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's PIN
+13:06:51.237 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's mobile number
+13:06:51.321 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's email: TrtCh@mail.com
+13:06:51.368 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's password
+13:06:52.920 [main] INFO  testCases.TC_004_AddCustomerDDT - Clicking on Submit button
+13:06:52.977 [main] INFO  testCases.TC_004_AddCustomerDDT - Customer Registered Successfully
+13:06:52.977 [main] INFO  testCases.TC_004_AddCustomerDDT - Completed test: addCustomerTest - PASSED
+13:06:54.669 [main] INFO  testCases.TC_004_AddCustomerDDT - driver clicks on the Home button
+13:06:56.973 [main] INFO  testCases.TC_004_AddCustomerDDT - driver clicks on the New Customer button
+13:06:57.771 [main] INFO  testCases.TC_004_AddCustomerDDT - BaseClass: driver quits
+13:06:57.771 [main] TRACE testCases.TC_004_AddCustomerDDT - ********** END OF TEST **********
+13:13:54.495 [main] INFO  testCases.TC_004_AddCustomerDDT - BaseClass: setup() completed for chrome browser
+13:13:58.854 [main] INFO  testCases.TC_004_AddCustomerDDT - driver navigates to the base URL 
+13:14:00.757 [main] INFO  testCases.TC_004_AddCustomerDDT - driver enters username
+13:14:00.811 [main] INFO  testCases.TC_004_AddCustomerDDT - driver enters password
+13:14:01.449 [main] INFO  testCases.TC_004_AddCustomerDDT - driver clicks on the login button
+13:14:01.455 [main] INFO  testCases.TC_004_AddCustomerDDT - Login was successful.
+13:14:03.714 [main] INFO  testCases.TC_004_AddCustomerDDT - driver clicks on the New Customer button
+13:14:04.170 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's name
+13:14:04.213 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's gender
+13:14:04.304 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's DOB
+13:14:04.369 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's address
+13:14:04.445 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's city
+13:14:04.491 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's state
+13:14:04.546 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's PIN
+13:14:04.613 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's mobile number
+13:14:04.700 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's email: fBkQE@mail.com
+13:14:04.747 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's password
+13:14:06.138 [main] INFO  testCases.TC_004_AddCustomerDDT - Clicking on Submit button
+13:14:06.202 [main] INFO  testCases.TC_004_AddCustomerDDT - Customer Registered Successfully
+13:14:06.204 [main] INFO  testCases.TC_004_AddCustomerDDT - Completed test: addCustomerTest - PASSED
+13:14:07.607 [main] INFO  testCases.TC_004_AddCustomerDDT - driver clicks on the Home button
+13:14:08.061 [main] INFO  testCases.TC_004_AddCustomerDDT - driver clicks on the New Customer button
+13:14:08.130 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's name
+13:14:08.176 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's gender
+13:14:08.258 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's DOB
+13:14:08.317 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's address
+13:14:08.361 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's city
+13:14:08.402 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's state
+13:14:08.451 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's PIN
+13:14:08.506 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's mobile number
+13:14:08.578 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's email: RRcbJ@mail.com
+13:14:08.626 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's password
+13:14:09.318 [main] INFO  testCases.TC_004_AddCustomerDDT - Clicking on Submit button
+13:14:09.374 [main] INFO  testCases.TC_004_AddCustomerDDT - Customer Registered Successfully
+13:14:09.374 [main] INFO  testCases.TC_004_AddCustomerDDT - Completed test: addCustomerTest - PASSED
+13:14:10.918 [main] INFO  testCases.TC_004_AddCustomerDDT - driver clicks on the Home button
+13:14:12.317 [main] INFO  testCases.TC_004_AddCustomerDDT - driver clicks on the New Customer button
+13:14:12.379 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's name
+13:14:12.420 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's gender
+13:14:12.506 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's DOB
+13:14:12.565 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's address
+13:14:12.645 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's city
+13:14:12.720 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's state
+13:14:12.812 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's PIN
+13:14:12.924 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's mobile number
+13:14:13.015 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's email: dIFCb@mail.com
+13:14:13.060 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's password
+13:14:14.458 [main] INFO  testCases.TC_004_AddCustomerDDT - Clicking on Submit button
+13:14:14.516 [main] INFO  testCases.TC_004_AddCustomerDDT - Customer Registered Successfully
+13:14:14.517 [main] INFO  testCases.TC_004_AddCustomerDDT - Completed test: addCustomerTest - PASSED
+13:14:16.015 [main] INFO  testCases.TC_004_AddCustomerDDT - driver clicks on the Home button
+13:14:18.279 [main] INFO  testCases.TC_004_AddCustomerDDT - driver clicks on the New Customer button
+13:14:19.053 [main] INFO  testCases.TC_004_AddCustomerDDT - BaseClass: driver quits
+13:14:19.053 [main] TRACE testCases.TC_004_AddCustomerDDT - ********** END OF TEST **********
+13:16:30.334 [main] INFO  testCases.TC_004_AddCustomerDDT - BaseClass: setup() completed for chrome browser
+13:16:34.142 [main] INFO  testCases.TC_004_AddCustomerDDT - driver navigates to the base URL 
+13:16:36.503 [main] INFO  testCases.TC_004_AddCustomerDDT - driver enters username
+13:16:36.560 [main] INFO  testCases.TC_004_AddCustomerDDT - driver enters password
+13:16:37.260 [main] INFO  testCases.TC_004_AddCustomerDDT - driver clicks on the login button
+13:16:37.264 [main] INFO  testCases.TC_004_AddCustomerDDT - Login was successful.
+13:16:37.825 [main] INFO  testCases.TC_004_AddCustomerDDT - driver clicks on the New Customer button
+13:16:38.293 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's name
+13:16:38.339 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's gender
+13:16:38.430 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's DOB
+13:16:38.492 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's address
+13:16:38.563 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's city
+13:16:38.610 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's state
+13:16:38.665 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's PIN
+13:16:38.731 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's mobile number
+13:16:38.809 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's email: oFzgQ@mail.com
+13:16:38.856 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's password
+13:16:39.352 [main] INFO  testCases.TC_004_AddCustomerDDT - Clicking on Submit button
+13:16:39.425 [main] INFO  testCases.TC_004_AddCustomerDDT - Customer Registered Successfully
+13:16:39.427 [main] INFO  testCases.TC_004_AddCustomerDDT - Completed test: addCustomerTest - PASSED
+13:16:39.911 [main] INFO  testCases.TC_004_AddCustomerDDT - driver clicks on the Home button
+13:16:40.344 [main] INFO  testCases.TC_004_AddCustomerDDT - driver clicks on the New Customer button
+13:16:40.426 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's name
+13:16:40.466 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's gender
+13:16:40.561 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's DOB
+13:16:40.634 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's address
+13:16:40.689 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's city
+13:16:40.733 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's state
+13:16:40.801 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's PIN
+13:16:40.886 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's mobile number
+13:16:40.972 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's email: EoQeW@mail.com
+13:16:41.028 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's password
+13:16:41.575 [main] INFO  testCases.TC_004_AddCustomerDDT - Clicking on Submit button
+13:16:41.635 [main] INFO  testCases.TC_004_AddCustomerDDT - Customer Registered Successfully
+13:16:41.635 [main] INFO  testCases.TC_004_AddCustomerDDT - Completed test: addCustomerTest - PASSED
+13:16:42.065 [main] INFO  testCases.TC_004_AddCustomerDDT - driver clicks on the Home button
+13:16:42.625 [main] INFO  testCases.TC_004_AddCustomerDDT - driver clicks on the New Customer button
+13:16:42.687 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's name
+13:16:42.726 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's gender
+13:16:42.812 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's DOB
+13:16:42.874 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's address
+13:16:42.922 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's city
+13:16:42.962 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's state
+13:16:43.014 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's PIN
+13:16:43.070 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's mobile number
+13:16:43.142 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's email: hzBmj@mail.com
+13:16:43.185 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's password
+13:16:43.636 [main] INFO  testCases.TC_004_AddCustomerDDT - Clicking on Submit button
+13:16:43.702 [main] INFO  testCases.TC_004_AddCustomerDDT - Customer Registered Successfully
+13:16:43.702 [main] INFO  testCases.TC_004_AddCustomerDDT - Completed test: addCustomerTest - PASSED
+13:16:44.119 [main] INFO  testCases.TC_004_AddCustomerDDT - driver clicks on the Home button
+13:16:44.160 [main] INFO  testCases.TC_004_AddCustomerDDT - Customer data extraction from the Excel is completed.
+13:16:44.943 [main] INFO  testCases.TC_004_AddCustomerDDT - BaseClass: driver quits
+13:16:44.943 [main] TRACE testCases.TC_004_AddCustomerDDT - ********** END OF TEST **********
+13:30:54.817 [main] INFO  testCases.TC_004_AddCustomerDDT - BaseClass: setup() completed for chrome browser
+13:30:56.403 [main] INFO  testCases.TC_004_AddCustomerDDT - driver navigates to the base URL 
+13:30:56.514 [main] INFO  testCases.TC_004_AddCustomerDDT - driver enters username
+13:30:56.585 [main] INFO  testCases.TC_004_AddCustomerDDT - driver enters password
+13:30:57.291 [main] INFO  testCases.TC_004_AddCustomerDDT - driver clicks on the login button
+13:30:57.295 [main] INFO  testCases.TC_004_AddCustomerDDT - Login was successful.
+13:30:58.220 [main] INFO  testCases.TC_004_AddCustomerDDT - driver clicks on the New Customer button
+13:30:58.681 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's name
+13:30:58.723 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's gender
+13:30:58.813 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's DOB
+13:30:58.877 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's address
+13:30:58.948 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's city
+13:30:58.993 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's state
+13:30:59.048 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's PIN
+13:30:59.118 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's mobile number
+13:30:59.196 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's email: wmCue@mail.com
+13:30:59.243 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's password
+13:30:59.735 [main] INFO  testCases.TC_004_AddCustomerDDT - Clicking on Submit button
+13:30:59.803 [main] INFO  testCases.TC_004_AddCustomerDDT - Customer Registered Successfully
+13:30:59.805 [main] INFO  testCases.TC_004_AddCustomerDDT - Completed test: addCustomerTest - PASSED
+13:31:00.362 [main] INFO  testCases.TC_004_AddCustomerDDT - driver clicks on the Home button
+13:31:00.772 [main] INFO  testCases.TC_004_AddCustomerDDT - driver clicks on the New Customer button
+13:31:00.844 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's name
+13:31:00.893 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's gender
+13:31:00.986 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's DOB
+13:31:01.055 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's address
+13:31:01.106 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's city
+13:31:01.153 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's state
+13:31:01.211 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's PIN
+13:31:01.327 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's mobile number
+13:31:01.449 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's email: ieFjQ@mail.com
+13:31:01.504 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's password
+13:31:02.006 [main] INFO  testCases.TC_004_AddCustomerDDT - Clicking on Submit button
+13:31:02.081 [main] INFO  testCases.TC_004_AddCustomerDDT - Customer Registered Successfully
+13:31:02.081 [main] INFO  testCases.TC_004_AddCustomerDDT - Completed test: addCustomerTest - PASSED
+13:31:02.493 [main] INFO  testCases.TC_004_AddCustomerDDT - driver clicks on the Home button
+13:31:02.938 [main] INFO  testCases.TC_004_AddCustomerDDT - driver clicks on the New Customer button
+13:31:03.010 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's name
+13:31:03.050 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's gender
+13:31:03.139 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's DOB
+13:31:03.201 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's address
+13:31:03.253 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's city
+13:31:03.295 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's state
+13:31:03.351 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's PIN
+13:31:03.418 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's mobile number
+13:31:03.497 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's email: rVRyb@mail.com
+13:31:03.542 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's password
+13:31:03.947 [main] INFO  testCases.TC_004_AddCustomerDDT - Clicking on Submit button
+13:31:04.011 [main] INFO  testCases.TC_004_AddCustomerDDT - Customer Registered Successfully
+13:31:04.011 [main] INFO  testCases.TC_004_AddCustomerDDT - Completed test: addCustomerTest - PASSED
+13:31:04.409 [main] INFO  testCases.TC_004_AddCustomerDDT - driver clicks on the Home button
+13:31:04.453 [main] INFO  testCases.TC_004_AddCustomerDDT - Customer data extraction from the Excel is completed.
+13:31:05.217 [main] INFO  testCases.TC_004_AddCustomerDDT - BaseClass: driver quits
+13:31:05.218 [main] TRACE testCases.TC_004_AddCustomerDDT - ********** END OF TEST **********
+13:32:37.265 [main] INFO  testCases.TC_004_AddCustomerDDT - BaseClass: setup() completed for chrome browser
+13:32:38.514 [main] INFO  testCases.TC_004_AddCustomerDDT - driver navigates to the base URL 
+13:32:38.789 [main] INFO  testCases.TC_004_AddCustomerDDT - driver enters username
+13:32:38.845 [main] INFO  testCases.TC_004_AddCustomerDDT - driver enters password
+13:32:39.606 [main] INFO  testCases.TC_004_AddCustomerDDT - driver clicks on the login button
+13:32:39.610 [main] INFO  testCases.TC_004_AddCustomerDDT - Login was successful.
+13:32:40.159 [main] INFO  testCases.TC_004_AddCustomerDDT - driver clicks on the New Customer button
+13:32:40.620 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's name
+13:32:40.663 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's gender
+13:32:40.754 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's DOB
+13:32:40.818 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's address
+13:32:40.886 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's city
+13:32:40.930 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's state
+13:32:40.985 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's PIN
+13:32:41.049 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's mobile number
+13:32:41.132 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's email: vWdlS@mail.com
+13:32:41.186 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's password
+13:32:41.858 [main] INFO  testCases.TC_004_AddCustomerDDT - Clicking on Submit button
+13:32:41.931 [main] INFO  testCases.TC_004_AddCustomerDDT - Customer Registered Successfully
+13:32:41.933 [main] INFO  testCases.TC_004_AddCustomerDDT - Completed test: addCustomerTest - PASSED
+13:32:42.333 [main] INFO  testCases.TC_004_AddCustomerDDT - driver clicks on the Home button
+13:32:42.767 [main] INFO  testCases.TC_004_AddCustomerDDT - driver clicks on the New Customer button
+13:32:42.835 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's name
+13:32:42.875 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's gender
+13:32:42.959 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's DOB
+13:32:43.021 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's address
+13:32:43.068 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's city
+13:32:43.111 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's state
+13:32:43.164 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's PIN
+13:32:43.221 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's mobile number
+13:32:43.314 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's email: ijhsR@mail.com
+13:32:43.360 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's password
+13:32:43.827 [main] INFO  testCases.TC_004_AddCustomerDDT - Clicking on Submit button
+13:32:43.912 [main] INFO  testCases.TC_004_AddCustomerDDT - Customer Registered Successfully
+13:32:43.913 [main] INFO  testCases.TC_004_AddCustomerDDT - Completed test: addCustomerTest - PASSED
+13:32:44.307 [main] INFO  testCases.TC_004_AddCustomerDDT - driver clicks on the Home button
+13:32:44.759 [main] INFO  testCases.TC_004_AddCustomerDDT - driver clicks on the New Customer button
+13:32:44.827 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's name
+13:32:44.866 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's gender
+13:32:44.955 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's DOB
+13:32:45.014 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's address
+13:32:45.065 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's city
+13:32:45.108 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's state
+13:32:45.157 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's PIN
+13:32:45.212 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's mobile number
+13:32:45.283 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's email: qfPbf@mail.com
+13:32:45.327 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's password
+13:32:45.369 [main] INFO  testCases.TC_004_AddCustomerDDT - Clicking on Submit button
+13:32:46.186 [main] INFO  testCases.TC_004_AddCustomerDDT - BaseClass: driver quits
+13:32:46.186 [main] TRACE testCases.TC_004_AddCustomerDDT - ********** END OF TEST **********
+13:48:37.003 [main] INFO  testCases.TC_004_AddCustomerDDT - BaseClass: setup() completed for chrome browser
+13:48:45.453 [main] INFO  testCases.TC_004_AddCustomerDDT - driver navigates to the base URL 
+13:48:48.492 [main] INFO  testCases.TC_004_AddCustomerDDT - driver enters username
+13:48:48.568 [main] INFO  testCases.TC_004_AddCustomerDDT - driver enters password
+13:48:50.597 [main] INFO  testCases.TC_004_AddCustomerDDT - driver clicks on the login button
+13:48:50.601 [main] INFO  testCases.TC_004_AddCustomerDDT - Login was successful.
+13:48:52.263 [main] INFO  testCases.TC_004_AddCustomerDDT - driver clicks on the New Customer button
+13:48:52.699 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's name
+13:48:52.741 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's gender
+13:48:52.832 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's DOB
+13:48:52.900 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's address
+13:48:52.978 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's city
+13:48:53.023 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's state
+13:48:53.077 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's PIN
+13:48:53.140 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's mobile number
+13:48:53.218 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's email: sViAC@mail.com
+13:48:53.267 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's password
+13:48:54.715 [main] INFO  testCases.TC_004_AddCustomerDDT - Clicking on Submit button
+13:48:54.782 [main] INFO  testCases.TC_004_AddCustomerDDT - Customer Registered Successfully
+13:48:54.784 [main] INFO  testCases.TC_004_AddCustomerDDT - Completed test: addCustomerTest - PASSED
+13:48:57.263 [main] INFO  testCases.TC_004_AddCustomerDDT - driver clicks on the Home button
+13:48:58.854 [main] INFO  testCases.TC_004_AddCustomerDDT - driver clicks on the New Customer button
+13:48:58.964 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's name
+13:48:59.013 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's gender
+13:48:59.127 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's DOB
+13:48:59.215 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's address
+13:48:59.282 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's city
+13:48:59.336 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's state
+13:48:59.387 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's PIN
+13:48:59.444 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's mobile number
+13:48:59.517 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's email: nCfFj@mail.com
+13:48:59.567 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's password
+13:48:59.651 [main] INFO  testCases.TC_004_AddCustomerDDT - Clicking on Submit button
+13:49:00.479 [main] INFO  testCases.TC_004_AddCustomerDDT - BaseClass: driver quits
+13:49:00.479 [main] TRACE testCases.TC_004_AddCustomerDDT - ********** END OF TEST **********
+13:49:27.577 [main] INFO  testCases.TC_004_AddCustomerDDT - BaseClass: setup() completed for chrome browser
+13:49:31.250 [main] INFO  testCases.TC_004_AddCustomerDDT - driver navigates to the base URL 
+13:49:33.180 [main] INFO  testCases.TC_004_AddCustomerDDT - driver enters username
+13:49:33.237 [main] INFO  testCases.TC_004_AddCustomerDDT - driver enters password
+13:49:34.066 [main] INFO  testCases.TC_004_AddCustomerDDT - driver clicks on the login button
+13:49:34.071 [main] INFO  testCases.TC_004_AddCustomerDDT - Login was successful.
+13:49:35.967 [main] INFO  testCases.TC_004_AddCustomerDDT - driver clicks on the New Customer button
+13:49:36.522 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's name
+13:49:36.565 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's gender
+13:49:36.655 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's DOB
+13:49:36.722 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's address
+13:49:36.790 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's city
+13:49:36.835 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's state
+13:49:36.890 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's PIN
+13:49:36.956 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's mobile number
+13:49:37.037 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's email: Lfqfz@mail.com
+13:49:37.091 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's password
+13:49:38.481 [main] INFO  testCases.TC_004_AddCustomerDDT - Clicking on Submit button
+13:49:38.547 [main] INFO  testCases.TC_004_AddCustomerDDT - Customer Registered Successfully
+13:49:38.549 [main] INFO  testCases.TC_004_AddCustomerDDT - Completed test: addCustomerTest - PASSED
+13:49:40.677 [main] INFO  testCases.TC_004_AddCustomerDDT - driver clicks on the Home button
+13:49:43.132 [main] INFO  testCases.TC_004_AddCustomerDDT - driver clicks on the New Customer button
+13:49:43.201 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's name
+13:49:43.242 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's gender
+13:49:43.334 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's DOB
+13:49:43.425 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's address
+13:49:43.473 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's city
+13:49:43.517 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's state
+13:49:43.575 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's PIN
+13:49:43.637 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's mobile number
+13:49:43.719 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's email: FaBfq@mail.com
+13:49:43.769 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's password
+13:49:45.394 [main] INFO  testCases.TC_004_AddCustomerDDT - Clicking on Submit button
+13:49:45.452 [main] INFO  testCases.TC_004_AddCustomerDDT - Customer Registered Successfully
+13:49:45.452 [main] INFO  testCases.TC_004_AddCustomerDDT - Completed test: addCustomerTest - PASSED
+13:49:47.380 [main] INFO  testCases.TC_004_AddCustomerDDT - driver clicks on the Home button
+13:49:49.614 [main] INFO  testCases.TC_004_AddCustomerDDT - driver clicks on the New Customer button
+13:49:49.697 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's name
+13:49:49.736 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's gender
+13:49:49.823 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's DOB
+13:49:49.891 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's address
+13:49:49.948 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's city
+13:49:49.993 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's state
+13:49:50.047 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's PIN
+13:49:50.115 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's mobile number
+13:49:50.197 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's email: kYkpI@mail.com
+13:49:50.245 [main] INFO  testCases.TC_004_AddCustomerDDT - Entering Customer's password
+13:49:51.742 [main] INFO  testCases.TC_004_AddCustomerDDT - Clicking on Submit button
+13:49:51.800 [main] INFO  testCases.TC_004_AddCustomerDDT - Customer Registered Successfully
+13:49:51.800 [main] INFO  testCases.TC_004_AddCustomerDDT - Completed test: addCustomerTest - PASSED
+13:49:53.401 [main] INFO  testCases.TC_004_AddCustomerDDT - driver clicks on the Home button
+13:49:53.461 [main] INFO  testCases.TC_004_AddCustomerDDT - Customer data extraction from the Excel is completed.
+13:49:54.323 [main] INFO  testCases.TC_004_AddCustomerDDT - BaseClass: driver quits
+13:49:54.323 [main] TRACE testCases.TC_004_AddCustomerDDT - ********** END OF TEST **********

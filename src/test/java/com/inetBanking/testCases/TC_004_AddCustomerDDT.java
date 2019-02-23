@@ -45,9 +45,13 @@ public class TC_004_AddCustomerDDT extends BaseClass {
 		// Assigning static WebDriver to the instance of the LoginPage class
 		ac = new AddCustomerPage(driver);	
 		
-		// FROM HERE we start working with the XLUtils_NewCustomerData class and create a loop
+		// We want the page to login and wait for the button to be clickable
+		sm.waitAndClickElement(ac.getNewCustomerBtn());
+		log.info("driver clicks on the New Customer button");
 		
-		// Populates the ArrayList with customer data
+		// *** From here we start working with the XLUtils_NewCustomerData class and create a loop ***
+		
+		// Populates the ArrayList inside the XLUtils_NewCustomerData class with customer data.
 		XLUtils_NewCustomerData.populateListWithCustData();
 		
 		// Creating a new Array list from the static list of Customer data in XLUtils_NewCustomerData calss:
@@ -57,13 +61,7 @@ public class TC_004_AddCustomerDDT extends BaseClass {
 		Iterator<String> custIter = custData.iterator();
 	
 		while (custIter.hasNext()) {  // looping through the List
-			
-//			System.out.println(custIter.next());
-			
-			// We want the page to login and wait for the button to be clickable
-			sm.waitAndClickElement(ac.getNewCustomerBtn());
-			log.info("driver clicks on the New Customer button");
-				
+						
 			ac.getCustomerNameTxt().sendKeys(custIter.next());
 			log.info("Entering Customer's name");
 			
@@ -129,12 +127,17 @@ public class TC_004_AddCustomerDDT extends BaseClass {
 			// Switching to the Add Customer page again to avoid stale element reference
 			ac = new AddCustomerPage(driver); 
 			
-			// Waiting for the NEw Customer button to become available 
-			sm.WaitUntilWebElementIsVisible(ac.getNewCustomerBtn());
-			
-			// Clicking on the new Customer button to allow for the next cycle
-			ac.getNewCustomerBtn().click();
-			log.info("driver clicks on the New Customer button");				
+			if (custIter.hasNext()) {
+				
+				// Waiting for the New Customer button to become available 
+				sm.WaitUntilWebElementIsVisible(ac.getNewCustomerBtn());
+				
+				// Clicking on the new Customer button to allow for the next cycle
+				ac.getNewCustomerBtn().click();
+				log.info("driver clicks on the New Customer button");
+			} else {
+				log.info("Customer data extraction from the Excel is completed.");
+			}						
 		}
 		softAssertion.assertAll(); 
 	}

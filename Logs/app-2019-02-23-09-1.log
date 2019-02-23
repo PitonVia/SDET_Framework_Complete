@@ -1,0 +1,36 @@
+09:45:17.413 [main] INFO  testCases.TC_002_LoginDDT - BaseClass: setup() completed for chrome browser
+09:45:20.018 [main] INFO  testCases.TC_002_LoginDDT - driver navigates to the base URL 
+09:45:20.834 [main] INFO  testCases.TC_002_LoginDDT - driver enters username from Excel
+09:45:20.925 [main] INFO  testCases.TC_002_LoginDDT - driver enters password from Excel
+09:45:21.594 [main] INFO  testCases.TC_002_LoginDDT - driver clicks on the login button
+09:45:26.684 [main] INFO  testCases.TC_002_LoginDDT - Login was successful.
+09:45:26.922 [main] INFO  testCases.TC_002_LoginDDT - Clicking on Log out link.
+09:45:26.925 [main] INFO  testCases.TC_002_LoginDDT - Checking the log out alert text: You Have Succesfully Logged Out!!
+09:45:27.402 [main] TRACE testCases.TC_002_LoginDDT - *** Parameterized test completed: PASSED ***
+09:45:27.525 [main] INFO  testCases.TC_002_LoginDDT - driver enters username from Excel
+09:45:27.579 [main] INFO  testCases.TC_002_LoginDDT - driver enters password from Excel
+09:45:27.667 [main] INFO  testCases.TC_002_LoginDDT - driver clicks on the login button
+09:45:27.672 [main] ERROR testCases.TC_002_LoginDDT - Login failed --> alert was displayed: User or Password is not valid
+09:45:27.679 [main] INFO  testCases.TC_002_LoginDDT - Dismissing the alert.
+09:45:28.124 [main] TRACE testCases.TC_002_LoginDDT - *** Parameterized test completed: FAILED ***
+09:45:28.195 [main] INFO  testCases.TC_002_LoginDDT - driver enters username from Excel
+09:45:28.247 [main] INFO  testCases.TC_002_LoginDDT - driver enters password from Excel
+09:45:28.330 [main] INFO  testCases.TC_002_LoginDDT - driver clicks on the login button
+09:45:28.336 [main] ERROR testCases.TC_002_LoginDDT - Login failed --> alert was displayed: User or Password is not valid
+09:45:28.342 [main] INFO  testCases.TC_002_LoginDDT - Dismissing the alert.
+09:45:28.808 [main] TRACE testCases.TC_002_LoginDDT - *** Parameterized test completed: FAILED ***
+09:45:28.886 [main] INFO  testCases.TC_002_LoginDDT - driver enters username from Excel
+09:45:28.937 [main] INFO  testCases.TC_002_LoginDDT - driver enters password from Excel
+09:45:29.429 [main] INFO  testCases.TC_002_LoginDDT - driver clicks on the login button
+09:45:34.519 [main] INFO  testCases.TC_002_LoginDDT - Login was successful.
+09:45:34.716 [main] INFO  testCases.TC_002_LoginDDT - Clicking on Log out link.
+09:45:34.720 [main] INFO  testCases.TC_002_LoginDDT - Checking the log out alert text: You Have Succesfully Logged Out!!
+09:45:35.177 [main] TRACE testCases.TC_002_LoginDDT - *** Parameterized test completed: PASSED ***
+09:45:35.248 [main] INFO  testCases.TC_002_LoginDDT - driver enters username from Excel
+09:45:35.298 [main] INFO  testCases.TC_002_LoginDDT - driver enters password from Excel
+09:45:35.371 [main] INFO  testCases.TC_002_LoginDDT - driver clicks on the login button
+09:45:35.378 [main] ERROR testCases.TC_002_LoginDDT - Login failed --> alert was displayed: User or Password is not valid
+09:45:35.383 [main] INFO  testCases.TC_002_LoginDDT - Dismissing the alert.
+09:45:35.786 [main] TRACE testCases.TC_002_LoginDDT - *** Parameterized test completed: FAILED ***
+09:45:36.636 [main] INFO  testCases.TC_002_LoginDDT - BaseClass: driver quits
+09:45:36.636 [main] TRACE testCases.TC_002_LoginDDT - ********** END OF TEST **********

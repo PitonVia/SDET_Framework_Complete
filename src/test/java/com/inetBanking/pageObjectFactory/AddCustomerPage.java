@@ -14,6 +14,9 @@ public class AddCustomerPage {
 	// This will be used to verify that a new customer has been created
 	public static final String Confirmation = "Customer Registered Successfully!!!";
 	
+	// Path to the Customer Data Excel
+	public static final String NewCustFilePath = "./src/test/java/com/inetBanking/testData/NewCustomerData.xlsx";
+	
 	// Creating a constructor so the WebDriver can be passed from other classes:
 	public AddCustomerPage(WebDriver driver) {
 		this.driver = driver;
@@ -40,8 +43,8 @@ public class AddCustomerPage {
 	@FindBy(name="sub") @CacheLookup WebElement submitBtn;
 	@FindBy(css=".heading3") WebElement confirmationHeader;
 	@FindBy(className="heading3") WebElement confirmationHeader2;
+	@FindBy(linkText="Home") @CacheLookup WebElement homeBtn;
 	
-
 	// Special method for handling DOB, since data has to be entered in 3 parts
 	public void sendKeysDOB(String mm, String dd, String yy) {
 		dobTxt.sendKeys(mm);
@@ -91,5 +94,8 @@ public class AddCustomerPage {
 	}
 	public WebElement getConfirmationHeader2() {
 		return confirmationHeader2;
+	}
+	public WebElement getHomeBtn() {
+		return homeBtn;
 	}
 }

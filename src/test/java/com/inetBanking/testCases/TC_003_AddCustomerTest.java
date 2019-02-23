@@ -11,7 +11,7 @@ import com.inetBanking.utilities.SeleniumMethods;
 public class TC_003_AddCustomerTest extends BaseClass {
 	
 	LoginPage lp;  // Instantiating object of the LoginPage.
-	AddCustomerPage ac;  // Instantiating object of the LoginPage.
+	AddCustomerPage ac;  // Instantiating object of the AddCustomer Page.
 	
 	private SoftAssert softAssertion = new SoftAssert();
 	

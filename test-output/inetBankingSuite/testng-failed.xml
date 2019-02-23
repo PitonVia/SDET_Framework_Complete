@@ -5,23 +5,15 @@
     <listener class-name="com.inetBanking.utilities.ExtentReportListenner"/>
   </listeners>
   <test thread-count="5" name="Internet Banking App Test on Chrome(failed)">
-    <parameter name="browser" value="firefox"/>
+    <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="com.inetBanking.testCases.TC_003_AddCustomerTest">
+      <class name="com.inetBanking.testCases.TC_004_AddCustomerDDT">
         <methods>
           <include name="setup"/>
+          <include name="tearDown"/>
           <include name="addCustomerTest"/>
-          <include name="tearDown"/>
         </methods>
-      </class> <!-- com.inetBanking.testCases.TC_003_AddCustomerTest -->
-      <class name="com.inetBanking.testCases.TC_001_LoginTest">
-        <methods>
-          <include name="setup"/>
-          <include name="tearDown"/>
-          <include name="test_002_SecondLogin"/>
-          <include name="test_001_Login"/>
-        </methods>
-      </class> <!-- com.inetBanking.testCases.TC_001_LoginTest -->
+      </class> <!-- com.inetBanking.testCases.TC_004_AddCustomerDDT -->
     </classes>
   </test> <!-- Internet Banking App Test on Chrome(failed) -->
 </suite> <!-- Failed suite [inetBankingSuite] -->

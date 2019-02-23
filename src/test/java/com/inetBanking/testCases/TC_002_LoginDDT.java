@@ -7,7 +7,7 @@ import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 import com.inetBanking.pageObjectFactory.LoginPage;
 import com.inetBanking.utilities.SeleniumMethods;
-import com.inetBanking.utilities.XLUtils;
+import com.inetBanking.utilities.XLUtils_LoginData;
 
 public class TC_002_LoginDDT extends BaseClass {
 
@@ -90,8 +90,8 @@ public class TC_002_LoginDDT extends BaseClass {
 		String xlFilepath = "./src/test/java/com/inetBanking/testData/LoginData.xlsx";
 
 		// Identifying the row and column for the 2 dimensional array
-		int rowCount = XLUtils.getRowCount(xlFilepath, "Sheet1");
-		int columnCount = XLUtils.getCellCount(xlFilepath, "Sheet1", 1);
+		int rowCount = XLUtils_LoginData.getRowCount(xlFilepath, "Sheet1");
+		int columnCount = XLUtils_LoginData.getCellCount(xlFilepath, "Sheet1", 1);
 
 		System.out.println("rowCount is: " + rowCount + ", columnCount is: " + columnCount);
 
@@ -106,7 +106,7 @@ public class TC_002_LoginDDT extends BaseClass {
 				// [i-1] since i = 1 for row in Excel, then 1-1=0 corresponds to a row in the
 				// array
 				// [j] since 0 for column number in Excel corresponds to 0 in the array
-				loginData[i-1][j] = XLUtils.getCellData(xlFilepath, "Sheet1", i, j);
+				loginData[i-1][j] = XLUtils_LoginData.getCellData(xlFilepath, "Sheet1", i, j);
 			}
 		}
 		return loginData;

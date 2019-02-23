@@ -13,9 +13,9 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 // Our xlsx spreadsheet will contain two columns only for username and password.
 
 // Note that all fields and methods are static --> we won't be creating an object of the class, 
-// instead, will be calling the class name to access the static methods . 
+// instead, will be calling the class name to access the static methods. 
 
-public class XLUtils {
+public class XLUtils_LoginData {
 
 	public static FileInputStream fis;
 	public static FileOutputStream fos;

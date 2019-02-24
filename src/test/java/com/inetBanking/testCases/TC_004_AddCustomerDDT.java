@@ -20,7 +20,7 @@ public class TC_004_AddCustomerDDT extends BaseClass {
 	private SeleniumMethods sm = new SeleniumMethods();
 	
 	@Test
-	public void addCustomerTest() throws IOException, InterruptedException {
+	public void addCustomerDDT() throws IOException, InterruptedException {
 		
 		// Assigning static WebDriver to the instance of the LoginPage class
 		lp = new LoginPage(driver);

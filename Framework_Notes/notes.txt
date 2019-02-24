@@ -1,6 +1,7 @@
 Reference Utube video URL:  https://www.youtube.com/watch?v=M4Ye3SKT46g&index=1&list=PLUDwpEzHYYLvKvuHol8AjUlvW1KuEi3e0
 Github repo URL: https://github.com/PitonVia/SDET_Framework_Complete.git
 
+// Testing merging of changes from the local branch to Eclipse. 
 
 About this framework: 
 1.) WebDriver is static and is used by all classes. 

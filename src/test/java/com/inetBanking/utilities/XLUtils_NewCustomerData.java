@@ -13,7 +13,7 @@ import org.apache.poi.xssf.usermodel.XSSFSheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 import com.inetBanking.pageObjectFactory.AddCustomerPage;
 
-// The methods will be reading cell values from rows of NewCustomerData.xlsx into a List
+// The methods will be reading cell values from rows of NewCustomerData.xlsx into a List.
 
 // Note that all fields and methods are static --> we won't be creating an object of the class, 
 // instead, will be calling the class name to access the static methods. 

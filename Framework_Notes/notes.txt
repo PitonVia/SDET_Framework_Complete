@@ -1,26 +1,26 @@
-Reference utube video URL:  https://www.youtube.com/watch?v=M4Ye3SKT46g&index=1&list=PLUDwpEzHYYLvKvuHol8AjUlvW1KuEi3e0
+Reference Utube video URL:  https://www.youtube.com/watch?v=M4Ye3SKT46g&index=1&list=PLUDwpEzHYYLvKvuHol8AjUlvW1KuEi3e0
 Github repo URL: https://github.com/PitonVia/SDET_Framework_Complete.git
 
 
 About this framework: 
 1.) WebDriver is static and is used by all classes. 
 2.) New instances of page classed pass static WebDriver as a constructor parameter inside @test methods.  
-3.) log4j2 is implemented in BaseClass as protected final (non-static) so test classes that extend BaseClass can inherit it.  
-4.) Base Class - contains reusable methods with extended TestNG annotations such as @Before/AfterClass for static WebDriver.
+3.) log4j2 is implemented in the BaseClass as protected final (non-static) so test classes that extend BaseClass inherit it.  
+4.) BaseClass - contains reusable methods with extended TestNG annotations such as @Before/AfterClass for static WebDriver.
 5.) Utilities classes: contain reusable methods without any annotations: property file reader, Excel readers and Listeners for Extent report. 
-6.) SoftAsserts are implemented inside test classes. They don't work well with parameterized tests, for which hard asserts are better suited. 
+6.) SoftAsserts are implemented inside test classes. They don't work well with parameterized tests with @DataProvider, for which hard asserts are better suited. 
 7.) JSExecutor and Explicit wait were added to the BaseClass inside the setup() method
 8.) All the custom Selenium methods were added to SeleniumMethods class inside the utilities pkg. 
-9.) SeleniumMethods class is instantiated in test classes, allowing calling of the custom Selenium methods from @Test methods. 
-10.) In testng.xml we only list test classes that need to be run. We don't need to specify the BaseClass, since its @Before/AfterClass methods will be run as they are inside the same pkg.
-11.) Maven's pom.xml contains 2 plugins: compile and Surefire that are required for execution of testng.xml with all test cases.
+9.) SeleniumMethods class is instantiated in test classes, allowing calling the custom Selenium methods from @Test methods. 
+10.) In testng.xml we specify test classes that need to be run!!! We don't need to specify the BaseClass, since its @Before/AfterClass methods will be run as they are inside the same pkg.
+11.) Maven's pom.xml contains 2 plugins: compile and Surefire that are required for execution of testng.xml
 12.) For the project to work from Maven (when executed from Eclipse), need to ensure that  Window >> Preferences >> Java >> Installed JREs is pointing to the Java 8 JDK (not JRE). 
-13.) Fog log4j2 to work when project is executed from Maven, need to copy log4j2.xml to src/test/resources folder!
-14.) In Jenkins we have configured a Maven Project (not a Freestyle Project).
-15.) TC 2 and 4 have parameterized tests with a @DataProvider and Apache poi library. 
-
+13.) Fog log4j2 to work when project is executed from Maven, had to copy log4j2.xml to src/test/resources folder!
+14.) In Jenkins we have configured a Maven Project (not a Freestyle Project) with Git Hub.
+15.) TC 2 and 4 have parameterized tests with a @DataProvider for login and Apache poi for new customer data. 
 
 
 TO DO:
 1.) Further enhance Extent Reports
 2.) Add ability to store screenshots with unique file names
+3.) Consider integrating logging with reporting

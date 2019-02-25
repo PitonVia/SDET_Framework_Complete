@@ -15,7 +15,7 @@ public class TC_001_LoginTest extends BaseClass {
 	// Instantiating Selenium Custom Methods with JS and Explicit waits 
 	private SeleniumMethods sm = new SeleniumMethods();
 	
-
+	
 	@Test(priority=0)
 	public void test_001_Login() throws IOException, InterruptedException {
 			

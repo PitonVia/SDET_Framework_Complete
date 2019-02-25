@@ -3,7 +3,7 @@
 <suite name="inetBankingSuite">
 
 	<listeners>
-		<listener class-name="com.inetBanking.utilities.ExtentReportListenner"/>	
+		<listener class-name="com.inetBanking.utilities.ExtentReportListener"/>	
 	</listeners>
 
 	<test thread-count="5" name="Internet Banking App Test on Chrome">

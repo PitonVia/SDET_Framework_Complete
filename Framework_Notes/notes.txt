@@ -17,6 +17,11 @@ About this framework:
 13.) Fog log4j2 to work when project is executed from Maven, had to copy log4j2.xml to src/test/resources folder!
 14.) In Jenkins we have configured a Maven Project (not a Freestyle Project) with Git Hub.
 15.) TC 2 and 4 have parameterized tests with a @DataProvider for login and Apache poi for new customer data. 
+16.) The following reports are available:
+	a) Extent Reports: 
+	b) TestNG HTML reports: /test-output/TestReport<yyyy-mm-dd_HH_MM_SS>.html
+		- Detailed report: /test-output/index.html  
+		- Summary report: /test-output/emailable-report.html
 
 
 TO DO:

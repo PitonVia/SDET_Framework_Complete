@@ -14,9 +14,9 @@
 			<!-- class name="com.inetBanking.testCases.BaseClass"/> -->
 			
 			<class name="com.inetBanking.testCases.TC_001_LoginTest"/>
-			<!--   <class name="com.inetBanking.testCases.TC_002_LoginDDT"/>  -->
-			<class name="com.inetBanking.testCases.TC_003_AddCustomerTest"/>
-			<class name="com.inetBanking.testCases.TC_004_AddCustomerDDT"/>
+			<class name="com.inetBanking.testCases.TC_002_LoginDDT"/>
+			<!--   <class name="com.inetBanking.testCases.TC_003_AddCustomerTest"/>  -->
+			<!--   <class name="com.inetBanking.testCases.TC_004_AddCustomerDDT"/>  -->
 			
 		</classes>
 	</test> <!-- Test -->

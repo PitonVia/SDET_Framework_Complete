@@ -40,15 +40,20 @@ public class ExtentReportListener extends TestListenerAdapter {
 		// Setting up config params, which will overwrite what's inside the xml file.
 		htmlReporter.config().setDocumentTitle("InetBanking Test Project");
 		htmlReporter.config().setReportName("Functional Test Report");
+		htmlReporter.config().setChartVisibilityOnOpen(true);
 		htmlReporter.config().setTestViewChartLocation(ChartLocation.TOP);
 		htmlReporter.config().setTheme(Theme.STANDARD);	
 		
+        
 		extent = new ExtentReports();
 		
 		extent.attachReporter(htmlReporter);
 		
-		extent.setSystemInfo("Host name", "http://demo.guru99.com/v4/index.php");
 		extent.setSystemInfo("Environment", "QA");
+		extent.setSystemInfo("Test URL", "http://demo.guru99.com/v4/index.php");
+		extent.setSystemInfo("Host name", "MSI-PC");
+		extent.setSystemInfo("OS", "Windows 10");
+		extent.setSystemInfo("Browser", "Chrome");
 		extent.setSystemInfo("user", "PV");
 		
 	}
